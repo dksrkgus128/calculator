@@ -1,1 +1,2 @@
 # calculator
+# edu - for github
